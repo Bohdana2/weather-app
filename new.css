@@ -1,0 +1,51 @@
+.button1 {
+  display: block;
+  margin: 0;
+}
+.city {
+  color: #b6b7b9;
+  font-size: 34px;
+  line-height: 26px;
+  margin: 5px 0px 0px 0px;
+  font-weight: bold;
+}
+form {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.col-9 {
+  border-radius: 5px;
+}
+.ul {
+  margin: 0;
+  padding: 0px;
+}
+li {
+  color: #9aa0a6;
+  font-size: 16px;
+  line-height: 16px;
+  margin: 0 px 0 px 0px -10px;
+  padding: 0;
+  list-style: none;
+}
+.wholeWe {
+  border: 1px solid gray;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 20px;
+  max-width: 600px;
+}
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+.image {
+  width: 64px;
+  height: 64px;
+}
+.units {
+  position: relative;
+  top: -34px;
+}
